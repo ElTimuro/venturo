@@ -1,2 +1,2 @@
 console.log('( ͡° ͜ʖ ͡°)');
-console.log('If you are reading this you should get in touch.');
+console.log('If you are reading this you should get in touch: hi@venturoventures.com');
