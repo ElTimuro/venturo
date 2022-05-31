@@ -6,6 +6,7 @@ html {
 }
 
 body {
+    overflow: hidden;
     font-family: 'Inconsolata', monospace;
     font-size: 1.2em;
     color: white;
