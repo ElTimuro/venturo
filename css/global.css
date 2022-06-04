@@ -1,8 +1,9 @@
 html {
     padding: 50px;
-    height: 120vh;
     background: rgb(243, 243, 243);
     background: linear-gradient(120deg, rgba(114, 51, 98, 0.45) 0%, rgba(204, 28, 28, 0.45) 50%, rgba(174, 111, 23, 0.45) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 body {
@@ -11,6 +12,11 @@ body {
     color: black;
     text-align: justify;
     text-justify: inter-word;
+}
+
+li {
+    margin-top: 25px;
+    margin-bottom: 5px;
 }
 
 @media (max-device-width: 600px) {
